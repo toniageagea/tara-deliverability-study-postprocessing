@@ -1,0 +1,33 @@
+study_bus,Monitored Facility,Injection_threshold,Cont Name,applicable_rating,resource_type
+556,1 Glen Rose ~4 13.8    1874 Glen Rose ~3  345  1,32705.29411764706,1676 Cooper G0    13.8    1788 Cooper 345    345  1,2898.3,capacity
+556,1 Glen Rose ~4 13.8    1874 Glen Rose ~3  345  1,9464.128843,1686 Weatherfor~8 13.8    1797 Weatherfor~7  345  1,2898.3,energy
+556,1466 Goldthwait~2  115     577 Lometa 115    115  1,4019.5,577 Lometa 115    115    1466 Goldthwait~2  115  2,199.4,capacity
+556,1466 Goldthwait~2  115     577 Lometa 115    115  1,854.361216,577 Lometa 115    115    1466 Goldthwait~2  115  2,199.4,energy
+556,1466 Goldthwait~2  115     577 Lometa 115    115  2,778.9795918367347,577 Lometa 115    115    1466 Goldthwait~2  115  1,199.4,capacity
+556,1466 Goldthwait~2  115     577 Lometa 115    115  2,854.361216,577 Lometa 115    115    1466 Goldthwait~2  115  1,199.4,energy
+556,1924 Plano 1 345   345    1921 Allen 1 345   345  1,21289.666666666668,1676 Cooper G0    13.8    1788 Cooper 345    345  1,731.2,capacity
+556,1924 Plano 1 345   345    1921 Allen 1 345   345  1,0.0,1676 Cooper G0    13.8    1788 Cooper 345    345  1,731.2,energy
+556,556 Brownwood ~1  115     557 Early 115     115  1,3085.666666666667,560 Bangs 115     115     596 Santa Anna~1  115  1,199.4,capacity
+556,556 Brownwood ~1  115     557 Early 115     115  1,304.4317173,556 Brownwood ~1  115     560 Bangs 115     115  1,199.4,energy
+556,556 Brownwood ~1  115     560 Bangs 115     115  1,1776.3636363636365,1735 Calliham G0  13.8    1822 Calliham 345  345  1,199.4,capacity
+556,556 Brownwood ~1  115     560 Bangs 115     115  1,320.9482154,556 Brownwood ~1  115     557 Early 115     115  1,199.4,energy
+556,560 Bangs 115     115     596 Santa Anna~1  115  1,3039.6000000000004,556 Brownwood ~1  115     557 Early 115     115  1,199.4,capacity
+556,560 Bangs 115     115     596 Santa Anna~1  115  1,539.6512011,556 Brownwood ~1  115     557 Early 115     115  1,199.4,energy
+573,1 Glen Rose ~4 13.8    1874 Glen Rose ~3  345  1,45992.72727272728,1676 Cooper G0    13.8    1788 Cooper 345    345  1,2898.3,capacity
+573,1 Glen Rose ~4 13.8    1874 Glen Rose ~3  345  1,9464.128843,1686 Weatherfor~8 13.8    1797 Weatherfor~7  345  1,2898.3,energy
+573,1466 Goldthwait~2  115     577 Lometa 115    115  1,6943.333333333334,577 Lometa 115    115    1466 Goldthwait~2  115  2,199.4,capacity
+573,1466 Goldthwait~2  115     577 Lometa 115    115  1,676.8455848,577 Lometa 115    115    1466 Goldthwait~2  115  2,199.4,energy
+573,1466 Goldthwait~2  115     577 Lometa 115    115  2,19084.0,577 Lometa 115    115    1466 Goldthwait~2  115  1,199.4,capacity
+573,1466 Goldthwait~2  115     577 Lometa 115    115  2,676.8455848,577 Lometa 115    115    1466 Goldthwait~2  115  1,199.4,energy
+573,1924 Plano 1 345   345    1921 Allen 1 345   345  1,29794.146341463416,1676 Cooper G0    13.8    1788 Cooper 345    345  1,731.2,capacity
+573,1924 Plano 1 345   345    1921 Allen 1 345   345  1,0.0,1676 Cooper G0    13.8    1788 Cooper 345    345  1,731.2,energy
+573,568 Doole 115     115     562 Brady 115     115  1,853.0588235294119,1735 Calliham G0  13.8    1822 Calliham 345  345  1,199.4,capacity
+573,568 Doole 115     115     562 Brady 115     115  1,439.0034364,1883 Eden 345      345    1973 Melvin 345    345  1,199.4,energy
+573,573 Gouldbusk ~1  115     568 Doole 115     115  1,1365.0000000000005,1593 Wadsworth ~4 13.8    1866 Wadsworth ~3  345  1,199.4,capacity
+573,573 Gouldbusk ~1  115     568 Doole 115     115  1,174.0,Base Case,199.4,energy
+573,573 Gouldbusk ~1  115     597 Talpa 115     115  1,3800.0,568 Doole 115     115     573 Gouldbusk ~1  115  1,199.4,capacity
+573,573 Gouldbusk ~1  115     597 Talpa 115     115  1,199.9,568 Doole 115     115     573 Gouldbusk ~1  115  1,199.4,energy
+573,597 Talpa 115     115     598 Valera 115    115  1,5216.5,568 Doole 115     115     573 Gouldbusk ~1  115  1,199.4,capacity
+573,597 Talpa 115     115     598 Valera 115    115  1,256.801023,568 Doole 115     115     573 Gouldbusk ~1  115  1,199.4,energy
+573,598 Valera 115    115     596 Santa Anna~1  115  1,6897.333333333334,568 Doole 115     115     573 Gouldbusk ~1  115  1,199.4,capacity
+573,598 Valera 115    115     596 Santa Anna~1  115  1,370.3900804,568 Doole 115     115     573 Gouldbusk ~1  115  1,199.4,energy
