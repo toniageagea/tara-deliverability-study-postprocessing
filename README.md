@@ -53,3 +53,21 @@ Generator interconnection studies
 Transmission constraint analysis  
 Grid capacity evaluation for renewable projects  
 Automation of power system study post-processing
+
+## How to Run
+
+1. Clone the repository
+
+git clone https://github.com/toniageagea/tara-deliverability-study-postprocessing.git
+
+2. Install dependencies
+
+pip install -r requirements.txt
+
+3. Place raw study results in
+
+data/raw_results_from_tara/
+
+4. Run the script
+
+python src/tara_postprocessing.py
