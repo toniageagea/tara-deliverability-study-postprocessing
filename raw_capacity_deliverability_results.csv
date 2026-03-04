@@ -1,0 +1,41 @@
+Study Bus,Studied Injection, Monitored Facility                                   ,Rate Base , Rate Cont , Cont Name                                                      ,Final DC Loading,Study Bus MW Impact
+573_Gouldbusk__1,2000,     1 Glen Rose ~4 13.8    1874 Glen Rose ~3  345  1  ,2848.3,2898.3,1687 Fort Worth~3 13.8    1798 Fort Worth~2  345  1,122.72,111
+556_Brownwood__1,2000,     1 Glen Rose ~4 13.8    1874 Glen Rose ~3  345  1  ,2848.3,2898.3,1685 Kennedale ~4 13.8    1796 Kennedale ~3  345  1,126.24,78
+573_Gouldbusk__1,2000,     1 Glen Rose ~4 13.8    1874 Glen Rose ~3  345  1  ,2848.3,2898.3,1676 Cooper G0    13.8    1788 Cooper 345    345  1,115.74,121
+573_Gouldbusk__1,2000,     1 Glen Rose ~4 13.8    1874 Glen Rose ~3  345  1  ,2848.3,2898.3,1685 Kennedale ~4 13.8    1796 Kennedale ~3  345  1,125.26,19
+556_Brownwood__1,2000,     1 Glen Rose ~4 13.8    1874 Glen Rose ~3  345  1  ,2848.3,2898.3,1687 Fort Worth~3 13.8    1798 Fort Worth~2  345  1,110.87,102
+556_Brownwood__1,2000,     1 Glen Rose ~4 13.8    1874 Glen Rose ~3  345  1  ,2848.3,2898.3,1676 Cooper G0    13.8    1788 Cooper 345    345  1,118.35,170
+573_Gouldbusk__1,2000,  1924 Plano 1 345   345    1921 Allen 1 345   345  1  ,681.2,731.2,1676 Cooper G0    13.8    1788 Cooper 345    345  1,120.42,41
+573_Gouldbusk__1,2000,   573 Gouldbusk ~1  115     568 Doole 115     115  1  ,149.4,199.4,1593 Wadsworth ~4 13.8    1866 Wadsworth ~3  345  1,128.42,104
+573_Gouldbusk__1,2000,   568 Doole 115     115     562 Brady 115     115  1  ,149.4,199.4,1735 Calliham G0  13.8    1822 Calliham 345  345  1,126.89,170
+556_Brownwood__1,2000,  1466 Goldthwait~2  115     577 Lometa 115    115  2  ,149.4,199.4,577 Lometa 115    115    1466 Goldthwait~2  115  1,123.06,196
+573_Gouldbusk__1,2000,   568 Doole 115     115     562 Brady 115     115  1  ,149.4,199.4,568 Doole 115     115     576 Lohn 115      115  1,123.52,138
+573_Gouldbusk__1,2000,   568 Doole 115     115     562 Brady 115     115  1  ,149.4,199.4,1883 Eden 345      345    1973 Melvin 345    345  1,116.01,90
+556_Brownwood__1,2000,   556 Brownwood ~1  115     560 Bangs 115     115  1  ,149.4,199.4,1735 Calliham G0  13.8    1822 Calliham 345  345  1,121.24,88
+556_Brownwood__1,2000,   556 Brownwood ~1  115     560 Bangs 115     115  1  ,149.4,199.4,414 Blanket 115   115     557 Early 115     115  1,124.02,50
+573_Gouldbusk__1,2000,   573 Gouldbusk ~1  115     568 Doole 115     115  1  ,149.4,199.4,596 Santa Anna~1  115     598 Valera 115    115  1,109.24,20
+573_Gouldbusk__1,2000,     1 Glen Rose ~4 13.8    1874 Glen Rose ~3  345  1  ,2848.3,2898.3,1593 Wadsworth ~4 13.8    1866 Wadsworth ~3  345  1,102.29,70
+556_Brownwood__1,2000,   560 Bangs 115     115     596 Santa Anna~1  115  1  ,149.4,199.4,556 Brownwood ~1  115     557 Early 115     115  1,123.41,50
+556_Brownwood__1,2000,  1466 Goldthwait~2  115     577 Lometa 115    115  1  ,149.4,199.4,577 Lometa 115    115    1466 Goldthwait~2  115  2,119.01,40
+556_Brownwood__1,2000,   556 Brownwood ~1  115     557 Early 115     115  1  ,149.4,199.4,560 Bangs 115     115     596 Santa Anna~1  115  1,106.83,60
+573_Gouldbusk__1,2000,  1466 Goldthwait~2  115     577 Lometa 115    115  2  ,149.4,199.4,577 Lometa 115    115    1466 Goldthwait~2  115  1,103.98,10
+573_Gouldbusk__1,2000,   573 Gouldbusk ~1  115     568 Doole 115     115  1  ,149.4,199.4,1742 San Anton~11 13.8    1826 San Anton~10  345  1,109.79,20
+556_Brownwood__1,2000,   556 Brownwood ~1  115     557 Early 115     115  1  ,149.4,199.4,1847 Abilene 5 ~2  345    1865 Merkel 2 345  345  1,111.21,30
+573_Gouldbusk__1,2000,   573 Gouldbusk ~1  115     568 Doole 115     115  1  ,149.4,199.4,1735 Calliham G0  13.8    1822 Calliham 345  345  1,109.04,50
+573_Gouldbusk__1,2000,   573 Gouldbusk ~1  115     597 Talpa 115     115  1  ,149.4,199.4,568 Doole 115     115     573 Gouldbusk ~1  115  1,104.4,50
+573_Gouldbusk__1,2000,   573 Gouldbusk ~1  115     568 Doole 115     115  1  ,149.4,199.4,Base Case ,100.84,50
+556_Brownwood__1,2000,   556 Brownwood ~1  115     560 Bangs 115     115  1  ,149.4,199.4,1742 San Anton~11 13.8    1826 San Anton~10  345  1,100.75,50
+556_Brownwood__1,2000,   556 Brownwood ~1  115     560 Bangs 115     115  1  ,149.4,199.4,556 Brownwood ~1  115     557 Early 115     115  1,99.88,60
+556_Brownwood__1,2000,   556 Brownwood ~1  115     557 Early 115     115  1  ,149.4,199.4,Base Case ,99.26,40
+573_Gouldbusk__1,2000,   597 Talpa 115     115     598 Valera 115    115  1  ,149.4,199.4,568 Doole 115     115     573 Gouldbusk ~1  115  1,95.07,40
+573_Gouldbusk__1,2000,   598 Valera 115    115     596 Santa Anna~1  115  1  ,149.4,199.4,568 Doole 115     115     573 Gouldbusk ~1  115  1,95.94,30
+556_Brownwood__1,2000,   556 Brownwood ~1  115     557 Early 115     115  1  ,149.4,199.4,590 Richland S~1  115     595 San Saba 115  115  1,93.98,40
+573_Gouldbusk__1,2000,  1466 Goldthwait~2  115     577 Lometa 115    115  1  ,149.4,199.4,577 Lometa 115    115    1466 Goldthwait~2  115  2,95.25,30
+556_Brownwood__1,2000,   556 Brownwood ~1  115     560 Bangs 115     115  1  ,149.4,199.4,1593 Wadsworth ~4 13.8    1866 Wadsworth ~3  345  1,90.73,50
+556_Brownwood__1,2000,   556 Brownwood ~1  115     557 Early 115     115  1  ,149.4,199.4,556 Brownwood ~1  115     560 Bangs 115     115  1,93.46,30
+573_Gouldbusk__1,2000,   573 Gouldbusk ~1  115     568 Doole 115     115  1  ,149.4,199.4,597 Talpa 115     115     598 Valera 115    115  1,93.21,30
+556_Brownwood__1,2000,   556 Brownwood ~1  115     557 Early 115     115  1  ,149.4,199.4,417 Carlton 115   115     421 De Leon 115   115  1,92.16,30
+556_Brownwood__1,2000,  1924 Plano 1 345   345    1921 Allen 1 345   345  1  ,681.2,731.2,1676 Cooper G0    13.8    1788 Cooper 345    345  1,92.51,60
+556_Brownwood__1,2000,     1 Glen Rose ~4 13.8    1874 Glen Rose ~3  345  1  ,2848.3,2898.3,1593 Wadsworth ~4 13.8    1866 Wadsworth ~3  345  1,97.33,80
+556_Brownwood__1,2000,     1 Glen Rose ~4 13.8    1874 Glen Rose ~3  345  1  ,2848.3,2898.3,1686 Weatherfor~8 13.8    1797 Weatherfor~7  345  1,96.54,80
+573_Gouldbusk__1,2000,     1 Glen Rose ~4 13.8    1874 Glen Rose ~3  345  1  ,2848.3,2898.3,1686 Weatherfor~8 13.8    1797 Weatherfor~7  345  1,92.26,80
