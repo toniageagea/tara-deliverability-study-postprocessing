@@ -1,7 +1,7 @@
 import os
 import pandas as pd
 
-directory_path = '../../raw_results_from_tara/'
+directory_path = '../data/raw_results_from_tara/'
 
 file_name1 = 'raw_energy_fcitc_results.csv'
 file_name2 = 'raw_capacity_deliverability_results.csv'
@@ -63,7 +63,7 @@ min_indices = grouped_df['Injection_threshold'].idxmin()
 # Filter the DataFrame to keep only the rows with the lowest injection threshold for each group
 filtered_df = final_df.loc[min_indices]
 
-filtered_df.to_csv(r'../csvs/constraints.csv', index=False)
+filtered_df.to_csv(r'../outputs/constraints.csv', index=False)
 
 rows = []
 for bus in filtered_df['study_bus'].unique():
@@ -115,4 +115,5 @@ cols.remove('number_of_constraints')
 cols.append('number_of_constraints')
 summary_results = summary_results[cols]
 
-summary_results.to_csv(r'../csvs/summary_results.csv', index=False)
+summary_results.to_csv(r'../outputs/summary_results.csv', index=False)
+
