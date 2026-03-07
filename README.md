@@ -1,4 +1,4 @@
-# TARA Interconnection Study Post-Processing
+**TARA Interconnection Study Post-Processing**
 
 Python script for post-processing transmission constraint results from TARA interconnection studies.
 
@@ -6,7 +6,7 @@ The script processes outputs from energy (FCITC) and capacity (deliverability) s
 
 This type of analysis is commonly performed during generator interconnection studies to assess transmission bottlenecks and determine feasible project injection levels.
 
-## Project Overview
+**Project Overview**
 
 Interconnection studies generate large volumes of constraint results across monitored facilities and contingencies. These raw outputs require post-processing to identify the most binding transmission constraints affecting a project.
 
@@ -19,7 +19,7 @@ The workflow:
 - Combine energy and capacity study results
 - Evaluate how project size affects the number of binding constraints
 
-## Repository Structure
+**Repository Structure**
 
 tara-deliverability-study-postprocessing
 
@@ -38,12 +38,12 @@ src/
 requirements.txt  
 README.md  
 
-## Technologies Used
+**Technologies Used**
 
 Python  
 pandas  
 
-## How to Run
+**How to Run**
 
 Clone the repository
 
@@ -61,7 +61,7 @@ Run the script
 
 python src/tara_postprocessing.py
 
-## Output Files
+**Output Files**
 
 The script generates two output files:
 
